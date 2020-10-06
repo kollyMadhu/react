@@ -1,0 +1,39 @@
+/* * {
+  font-size: 12px;
+} */
+
+.bg-color{
+  background-color: #0f4784;
+}
+.img-style{
+  cursor: pointer; 
+  width: 30%;
+  height: 30%;
+  margin: 0px 17px 0px 0px;
+}
+.row-sty{
+  display: flex;
+}
+.live__scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+
+  /* display:block; */
+}
+/* .live__scroll .row{
+  display:block;
+} */
+/* .live__scroll .live__scroll--box {
+  display: inline-block;
+  float: none;
+  padding: 15px;
+  border: 1px solid red;
+} */
+.new-line {
+  white-space: pre-wrap;
+}
+
+
+
+
