@@ -1,6 +1,3 @@
-/* * {
-  font-size: 12px;
-} */
 
 .bg-color{
   background-color: #0f4784;
@@ -18,21 +15,8 @@
   overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
+}
 
-  /* display:block; */
-}
-/* .live__scroll .row{
-  display:block;
-} */
-/* .live__scroll .live__scroll--box {
-  display: inline-block;
-  float: none;
-  padding: 15px;
-  border: 1px solid red;
-} */
-.new-line {
-  white-space: pre-wrap;
-}
 
 
 
